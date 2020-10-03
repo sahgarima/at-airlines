@@ -1,0 +1,50 @@
+
+.color,th, tr{
+    color:#4C4D8B;
+    font-weight: bold;
+}
+.top-header{
+    border: 1px solid #845CF3;
+}
+
+h6,h4{
+    font-weight: bold; 
+}
+ .top-box p{
+    line-height: 0px;
+    color:#4C4D8B;
+    font-weight: bold;
+    font-size:12px
+}
+
+.top-box button{
+    // background-color: #845CF3 !important;
+border-color: #845CF3 !important;
+color: #4C4D8B !important;
+}
+.border-box{
+    border:2px solid #845CF3 
+}
+.mid-box p{
+    margin:0px !important
+}
+
+.bottom-box th{
+font-size:20px
+}
+.bottom-box tbody tr{
+line-height:4 !important
+}
+.border-left{
+    border-left:1px solid #845CF3 !important 
+}
+
+.border-bold-left{
+    border-left:3px solid #845CF3 !important 
+}
+
+.popup-View{
+    position: fixed;
+z-index: 1;
+width: 100%;
+}

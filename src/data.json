@@ -1,0 +1,65 @@
+[
+    {
+        "fNo": "123",
+        "from": "BOM",
+        "to": "Del",
+        "departText": "BOM(22.30)",
+        "arrivalText": "DEL(00.40)",
+        "duration": "2h 10m",
+        "price": "2500"
+    },
+    {
+        "fNo": "123",
+        "from": "BOM",
+        "to": "Del",
+        "departText": "BOM(22.30)",
+        "arrivalText": "DEL(00.40)",
+        "duration": "2h 10m",
+        "price": "2500"
+    },
+    {
+        "fNo": "123",
+        "from": "BOM",
+        "to": "Del",
+        "departText": "BOM(22.30)",
+        "arrivalText": "DEL(00.40)",
+        "duration": "2h 10m",
+        "price": "2500"
+    },
+    {
+        "fNo": "123",
+        "from": "Del",
+        "to": "BOM",
+        "departText": "Del(22.30)",
+        "arrivalText": "BOM(00.40)",
+        "duration": "2h 10m",
+        "price": "2500"
+    },
+    {
+        "fNo": "123",
+        "from": "Del",
+        "to": "BOM",
+        "departText": "Del(22.30)",
+        "arrivalText": "BOM(00.40)",
+        "duration": "2h 10m",
+        "price": "2500"
+    },
+    {
+        "fNo": "123",
+        "from": "Del",
+        "to": "BOM",
+        "departText": "Del(22.30)",
+        "arrivalText": "BOM(00.40)",
+        "duration": "2h 10m",
+        "price": "2500"
+    },
+    {
+        "fNo": "123",
+        "from": "Del",
+        "to": "BOM",
+        "departText": "Del(22.30)",
+        "arrivalText": "BOM(00.40)",
+        "duration": "2h 10m",
+        "price": "2500"
+    }
+]

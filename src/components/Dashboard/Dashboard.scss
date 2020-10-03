@@ -1,0 +1,83 @@
+.gap-top{
+    margin-top: 20px;
+}
+.padding-20{
+    padding: 20px;
+}
+.inner-container{
+    padding: 0 10%;
+}
+.pt-top{
+    padding-top:20%
+}
+.margin-inner{
+    margin: 20px 0px;
+}
+.map-img{
+float: left;
+padding: 0px;
+margin: -22px;
+top: env();
+bottom: -33px;
+max-width: 28px;
+
+}
+.map-left{
+    padding: 0px;
+padding-left: 15px;
+}
+
+.userSection {
+background: #f2f2f2;
+background-repeat: no-repeat;
+// background-image: linear-gradient(to bottom,#051322,#15457c);
+background-size: 100% 75%;
+// min-height: 100vh;
+background-color: #fff;
+}
+.landingContainer{
+    width: 1200px;
+margin: 0 auto;
+
+}
+.outer-container .navbar{
+    padding: 0px;
+}
+.outer-container .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #845CF3;
+    margin: 0px;
+border-radius: 3px 0px 0px 3px;
+}
+.white-bg{
+    background-color: #fff;
+}
+.search-btn{
+    background-color: #84E27F;
+border-color: #84E27F;
+color: #fff;
+width:100%;
+}
+
+.date-picker-height{
+        height:100% !important
+
+}
+.hight-full{
+  height:100% !important
+
+}
+.radio-inline input{
+    font-size: 50px;
+}
+.btn:hover{
+    color:#fff !important;
+    background-color: #28a745;
+}
+ 
+.outer-container .navbar-expand-lg a{
+    height: 100%;
+padding: 15px;
+}
+input{
+    color: rgb(128, 128, 128) !important;
+}
