@@ -225,7 +225,7 @@ export default function Search(props) {
                     }
 
                     <div className="col-2">
-                        <h5><i className="fa fa-inr fa-2x" aria-hidden="true" style={{ marginTop: "-15px" }}></i> <span style={{ fontSize: "30px" }}>2500</span></h5>
+                        <h5><i className="fa fa-inr fa-2x" aria-hidden="true" style={{ marginTop: "-15px" }}></i> <span style={{ fontSize: "30px" }}> {props.idRound =="true"?"5000":"2500"}</span></h5>
                     </div>
                 </div>
 
